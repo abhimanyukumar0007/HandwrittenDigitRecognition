@@ -1,2 +1,4 @@
 # Handwritten Digit Recognition
-The Repository proposed an model for Handwritten Digit recognition using Tensorflow.
+Model for Handwritten Digit recognition using Deep Neural Network.
+
+Accuracy = 96.47% 
